@@ -1,0 +1,22 @@
+{
+  "name": "ishan-test-webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortextests/ishan-test-webhooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cortextests/ishan-test-webhooks/issues"
+  },
+  "homepage": "https://github.com/cortextests/ishan-test-webhooks#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
