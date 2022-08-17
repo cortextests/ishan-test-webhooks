@@ -6,6 +6,6 @@
   "author": "<imundra@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "picomatch": "^1.2.0"
+    "picomatch": "^2.0.7"
   }
 }
