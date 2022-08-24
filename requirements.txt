@@ -3,3 +3,4 @@ package2>=1.2
 package3>1.5
 package8==1.2.15
 package9 >= 1.990
+package10<1.0
