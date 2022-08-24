@@ -1,3 +1,4 @@
 urllib3==1.26.12
 package2>=1.2
 package3>1.5
+package8==1.2.15
