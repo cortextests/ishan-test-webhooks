@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: Ishan Test Webhooks
-  description: well i'm just trying something lol3
+  description: well i'm just trying something lol
   x-cortex-git:
     github:
       repository: cortextests/ishan-test-webhooks
